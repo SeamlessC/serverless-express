@@ -1,0 +1,34 @@
+export const NOT_FOUND_MESSAGE = "Not found!";
+
+export const SUCCESS = "SUCCESS";
+
+export const CREATED = "CREATED";
+
+export const UPDATED = "UPDATED";
+
+export const DELETED = "DELETED";
+
+export const DELETED_DATA = "DATA IS DELETED";
+
+export const SERVER_ERROR_MESSAGE_CREATE =
+  "AN ERROR OCCURRED WHILE CREATE DATA";
+
+export const SERVER_ERROR_MESSAGE_DELETE =
+  "AN ERROR OCCURRED WHILE DELETE DATA";
+
+export const SERVER_ERROR_MESSAGE_READ = "AN ERROR OCCURRED WHILE READ DATA";
+
+export const SERVER_ERROR_MESSAGE_UPDATE =
+  "AN ERROR OCCURRED WHILE UPDATE DATA";
+
+export const SERVER_ERROR_MESSAGE_RESTORE =
+  "AN ERROR OCCURRED WHILE RESTORE DATA";
+
+export const SIZE_ERROR_MESSAGE = "START EXCEEDED MAXIMUM SIZE";
+
+export const DUPLICATED_DATA = "DUPLICATED DATA";
+
+export const INVALID_OR_INSUFFICIENT_PARAMETERS =
+  "Invalid or insufficient parameters! Please try again!";
+
+export const transaction_type = "sale";

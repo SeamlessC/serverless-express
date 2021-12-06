@@ -17,7 +17,6 @@ const server: void | Promise<any> = lambdaFunction.handler(
     const response = await server;
 
     // print and exit
-    console.log(response);
     process.exit(0);
   } catch (e) {
     console.error(e);
